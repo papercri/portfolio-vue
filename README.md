@@ -2,7 +2,7 @@
 
 In this repository, we will use Vue to build a SPA (Single Page Application).
 
-Link: portfolio-vue-hazel.vercel.app
+Link: [Vue Portfolio](portfolio-vue-hazel.vercel.app) portfolio-vue-hazel.vercel.app
 
 ## Objectives
 
