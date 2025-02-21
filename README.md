@@ -24,7 +24,6 @@ In this repository, we will use Vue to build a SPA (Single Page Application).
 
 ### 2. _Admin View_ - Create a form to add images to the page.
 
-![Admin View](support/admin_view.png)
 
 - Add functionality:
   - This form should accept a URL, a description, and a title.
@@ -34,8 +33,6 @@ In this repository, we will use Vue to build a SPA (Single Page Application).
   - Everything should be centered. Refer to the attached image.
 
 ### 3. _User View_ - Display images of all projects and update the featured project when clicked.
-
-![User View](support/user_view.png)
 
 - Add functionality:
   - Add three default projects.
